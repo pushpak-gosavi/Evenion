@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Evenion Technology</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="add_user">Add User</string>
+    <string name="_1">1</string>
+    <string name="pushpak">Pushpak</string>
+    <string name="gosavi">Gosavi</string>
+    <string name="_25">25</string>
+    <string name="update_user">Update User</string>
+    <string name="delete_user">Delete User</string>
+    <string name="delete_all_users">Delete All Users</string>
+    <string name="descripton">Descripton</string>
+    <string name="introduction">Introduction</string>
+</resources>
